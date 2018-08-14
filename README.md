@@ -9,3 +9,8 @@ White box represents detections received from the Perception Module.
 Red box represents the predictions made by the tracker algorithm.
 Since the detection algorithms are expected to run at a lower frequency than the FPS, objects need to be "predicted" for most
 of the frames.
+
+<a href="https://github.com/h397wang/WATO-DEMO/blob/master/curved-line-tracking.gif"><img src="https://github.com/h397wang/WATO-DEMO/blob/master/curved-line-tracking.gif" align="center" ></a> 
+
+# Brief
+Dotted line represent road lines being tracked by the Prediction Node.
